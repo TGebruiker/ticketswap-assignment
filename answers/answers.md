@@ -1,3 +1,9 @@
+# 1
+The system implemented is the ETL module in this repo. The classes are then used in the 'download_stackexchange_archives.ipynb' notebook to provide an answer to question 1. In the code, as well as in the notebook you can find comments to explain the implementation.
+
+# 2 
+The SQL scripts containing the answers to question 2 are in the sqlscripts folder.
+
 # 3
 \
 \
