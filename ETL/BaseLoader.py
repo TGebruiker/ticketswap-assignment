@@ -2,7 +2,6 @@ from os import listdir
 from os.path import join as path_join
 import pandas as pd
 import sqlalchemy
-import logging
 
 
 class BaseLoader():

@@ -6,7 +6,6 @@ from os.path import join as path_join
 import os
 import logging
 import re
-import xml.etree.ElementTree as ET
 
 
 class BaseExtractor():
